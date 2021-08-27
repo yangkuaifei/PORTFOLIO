@@ -1,0 +1,14 @@
+body {
+    background-color: cornsilk;
+    margin-top: 25px;
+    margin-left: 0px;
+}
+
+.col {
+    background-color: darkgray;
+    align-content: center;
+}
+
+h6 {
+    align-content: center;
+}
